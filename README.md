@@ -1,4 +1,4 @@
-# election
+# Election
 Election dapp
 
 ## Dependencies
